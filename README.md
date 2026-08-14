@@ -13,6 +13,13 @@ Make sure you have the following installed on your system:
 
 ## 1. Local Setup Instructions
 
+### Clone the Repository
+Open terminal or VS Code and run:
+```bash
+git clone [https://github.com/ajzamora29/fsh-cenral-luzon.git](https://github.com/ajzamora29/fsh-cenral-luzon.git)
+cd fsh-cenral-luzon
+```
+
 ### Frontend Setup
 > **Note:** This project uses **React** (Create React App), not Vite.
 
