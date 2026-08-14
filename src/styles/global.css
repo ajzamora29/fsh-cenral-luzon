@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+25&family=Sarabun:wght@400;500;600;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Sarabun', sans-serif;
+}
+
+.navbtn {
+  transition: background .15s ease;
+}
+.navbtn:hover {
+  background: rgba(255, 255, 255, 0.10) !important;
+}
+
+.navcard-btn:hover {
+  opacity: 0.92;
+}
+
+.pill-switch-btn:hover {
+  background: rgba(31, 95, 168, 0.08);
+}

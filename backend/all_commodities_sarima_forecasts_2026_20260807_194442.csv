@@ -1,0 +1,481 @@
+Province,Commodity,Forecast_Date,Forecasted_Price
+Aurora,Alumahan,2026-01-01,259.66
+Aurora,Alumahan,2026-02-01,214.4
+Aurora,Alumahan,2026-03-01,214.85
+Aurora,Alumahan,2026-04-01,224.35
+Aurora,Alumahan,2026-05-01,224.49
+Aurora,Alumahan,2026-06-01,224.57
+Aurora,Alumahan,2026-07-01,237.9
+Aurora,Alumahan,2026-08-01,226.89
+Aurora,Alumahan,2026-09-01,265.12
+Aurora,Alumahan,2026-10-01,246.16
+Aurora,Alumahan,2026-11-01,253.08
+Aurora,Alumahan,2026-12-01,245.36
+Aurora,Bangus,2026-01-01,250.27
+Aurora,Bangus,2026-02-01,250.44
+Aurora,Bangus,2026-03-01,250.4
+Aurora,Bangus,2026-04-01,250.41
+Aurora,Bangus,2026-05-01,250.4
+Aurora,Bangus,2026-06-01,250.41
+Aurora,Bangus,2026-07-01,250.41
+Aurora,Bangus,2026-08-01,250.41
+Aurora,Bangus,2026-09-01,248.83
+Aurora,Bangus,2026-10-01,261.46
+Aurora,Bangus,2026-11-01,257.78
+Aurora,Bangus,2026-12-01,261.46
+Aurora,Galunggong (Imported),2026-01-01,202.61
+Aurora,Galunggong (Imported),2026-02-01,207.13
+Aurora,Galunggong (Imported),2026-03-01,201.15
+Aurora,Galunggong (Imported),2026-04-01,180.72
+Aurora,Galunggong (Imported),2026-05-01,193.36
+Aurora,Galunggong (Imported),2026-06-01,194.96
+Aurora,Galunggong (Imported),2026-07-01,198.87
+Aurora,Galunggong (Imported),2026-08-01,195.1
+Aurora,Galunggong (Imported),2026-09-01,231.34
+Aurora,Galunggong (Imported),2026-10-01,212.74
+Aurora,Galunggong (Imported),2026-11-01,196.46
+Aurora,Galunggong (Imported),2026-12-01,188.05
+Aurora,Galunggong (Local),2026-01-01,273.33
+Aurora,Galunggong (Local),2026-02-01,251.51
+Aurora,Galunggong (Local),2026-03-01,260.17
+Aurora,Galunggong (Local),2026-04-01,255.8
+Aurora,Galunggong (Local),2026-05-01,258.01
+Aurora,Galunggong (Local),2026-06-01,236.89
+Aurora,Galunggong (Local),2026-07-01,258.84
+Aurora,Galunggong (Local),2026-08-01,258.56
+Aurora,Galunggong (Local),2026-09-01,258.7
+Aurora,Galunggong (Local),2026-10-01,267.94
+Aurora,Galunggong (Local),2026-11-01,245.39
+Aurora,Galunggong (Local),2026-12-01,291.92
+Aurora,Tilapia,2026-01-01,156.69
+Aurora,Tilapia,2026-02-01,154.28
+Aurora,Tilapia,2026-03-01,155.64
+Aurora,Tilapia,2026-04-01,154.88
+Aurora,Tilapia,2026-05-01,155.31
+Aurora,Tilapia,2026-06-01,155.06
+Aurora,Tilapia,2026-07-01,155.2
+Aurora,Tilapia,2026-08-01,155.12
+Aurora,Tilapia,2026-09-01,155.17
+Aurora,Tilapia,2026-10-01,152.72
+Aurora,Tilapia,2026-11-01,155.16
+Aurora,Tilapia,2026-12-01,155.15
+Bataan,Alumahan,2026-01-01,365.19
+Bataan,Alumahan,2026-02-01,344.08
+Bataan,Alumahan,2026-03-01,360.01
+Bataan,Alumahan,2026-04-01,322.39
+Bataan,Alumahan,2026-05-01,255.22
+Bataan,Alumahan,2026-06-01,324.63
+Bataan,Alumahan,2026-07-01,251.04
+Bataan,Alumahan,2026-08-01,262.09
+Bataan,Alumahan,2026-09-01,321.34
+Bataan,Alumahan,2026-10-01,360.0
+Bataan,Alumahan,2026-11-01,404.18
+Bataan,Alumahan,2026-12-01,354.48
+Bataan,Bangus,2026-01-01,212.2
+Bataan,Bangus,2026-02-01,212.2
+Bataan,Bangus,2026-03-01,208.3
+Bataan,Bangus,2026-04-01,204.41
+Bataan,Bangus,2026-05-01,192.2
+Bataan,Bangus,2026-06-01,204.41
+Bataan,Bangus,2026-07-01,180.51
+Bataan,Bangus,2026-08-01,192.2
+Bataan,Bangus,2026-09-01,231.0
+Bataan,Bangus,2026-10-01,219.2
+Bataan,Bangus,2026-11-01,200.0
+Bataan,Bangus,2026-12-01,200.0
+Bataan,Galunggong (Imported),2026-01-01,273.68
+Bataan,Galunggong (Imported),2026-02-01,287.49
+Bataan,Galunggong (Imported),2026-03-01,259.9
+Bataan,Galunggong (Imported),2026-04-01,224.8
+Bataan,Galunggong (Imported),2026-05-01,223.5
+Bataan,Galunggong (Imported),2026-06-01,238.66
+Bataan,Galunggong (Imported),2026-07-01,226.28
+Bataan,Galunggong (Imported),2026-08-01,242.87
+Bataan,Galunggong (Imported),2026-09-01,284.16
+Bataan,Galunggong (Imported),2026-10-01,279.38
+Bataan,Galunggong (Imported),2026-11-01,281.02
+Bataan,Galunggong (Imported),2026-12-01,287.79
+Bataan,Galunggong (Local),2026-01-01,313.33
+Bataan,Galunggong (Local),2026-02-01,293.69
+Bataan,Galunggong (Local),2026-03-01,292.41
+Bataan,Galunggong (Local),2026-04-01,241.12
+Bataan,Galunggong (Local),2026-05-01,201.63
+Bataan,Galunggong (Local),2026-06-01,232.23
+Bataan,Galunggong (Local),2026-07-01,230.34
+Bataan,Galunggong (Local),2026-08-01,270.82
+Bataan,Galunggong (Local),2026-09-01,287.02
+Bataan,Galunggong (Local),2026-10-01,282.09
+Bataan,Galunggong (Local),2026-11-01,341.88
+Bataan,Galunggong (Local),2026-12-01,329.48
+Bataan,Tilapia,2026-01-01,129.37
+Bataan,Tilapia,2026-02-01,127.06
+Bataan,Tilapia,2026-03-01,123.25
+Bataan,Tilapia,2026-04-01,123.26
+Bataan,Tilapia,2026-05-01,123.26
+Bataan,Tilapia,2026-06-01,119.5
+Bataan,Tilapia,2026-07-01,115.74
+Bataan,Tilapia,2026-08-01,115.74
+Bataan,Tilapia,2026-09-01,111.98
+Bataan,Tilapia,2026-10-01,111.98
+Bataan,Tilapia,2026-11-01,118.21
+Bataan,Tilapia,2026-12-01,124.45
+Bulacan,Alumahan,2026-01-01,370.47
+Bulacan,Alumahan,2026-02-01,361.58
+Bulacan,Alumahan,2026-03-01,354.16
+Bulacan,Alumahan,2026-04-01,367.14
+Bulacan,Alumahan,2026-05-01,361.36
+Bulacan,Alumahan,2026-06-01,336.75
+Bulacan,Alumahan,2026-07-01,312.73
+Bulacan,Alumahan,2026-08-01,357.57
+Bulacan,Alumahan,2026-09-01,424.31
+Bulacan,Alumahan,2026-10-01,381.7
+Bulacan,Alumahan,2026-11-01,359.45
+Bulacan,Alumahan,2026-12-01,396.09
+Bulacan,Bangus,2026-01-01,220.8
+Bulacan,Bangus,2026-02-01,207.43
+Bulacan,Bangus,2026-03-01,208.11
+Bulacan,Bangus,2026-04-01,202.48
+Bulacan,Bangus,2026-05-01,168.02
+Bulacan,Bangus,2026-06-01,184.1
+Bulacan,Bangus,2026-07-01,214.53
+Bulacan,Bangus,2026-08-01,216.75
+Bulacan,Bangus,2026-09-01,226.86
+Bulacan,Bangus,2026-10-01,210.82
+Bulacan,Bangus,2026-11-01,226.31
+Bulacan,Bangus,2026-12-01,225.74
+Bulacan,Galunggong (Imported),2026-01-01,343.71
+Bulacan,Galunggong (Imported),2026-02-01,351.35
+Bulacan,Galunggong (Imported),2026-03-01,346.2
+Bulacan,Galunggong (Imported),2026-04-01,324.98
+Bulacan,Galunggong (Imported),2026-05-01,303.84
+Bulacan,Galunggong (Imported),2026-06-01,300.85
+Bulacan,Galunggong (Imported),2026-07-01,297.95
+Bulacan,Galunggong (Imported),2026-08-01,317.58
+Bulacan,Galunggong (Imported),2026-09-01,345.7
+Bulacan,Galunggong (Imported),2026-10-01,320.99
+Bulacan,Galunggong (Imported),2026-11-01,352.24
+Bulacan,Galunggong (Imported),2026-12-01,349.69
+Bulacan,Galunggong (Local),2026-01-01,307.91
+Bulacan,Galunggong (Local),2026-02-01,338.97
+Bulacan,Galunggong (Local),2026-03-01,330.75
+Bulacan,Galunggong (Local),2026-04-01,266.21
+Bulacan,Galunggong (Local),2026-05-01,222.46
+Bulacan,Galunggong (Local),2026-06-01,218.42
+Bulacan,Galunggong (Local),2026-07-01,253.92
+Bulacan,Galunggong (Local),2026-08-01,309.43
+Bulacan,Galunggong (Local),2026-09-01,307.21
+Bulacan,Galunggong (Local),2026-10-01,345.97
+Bulacan,Galunggong (Local),2026-11-01,305.06
+Bulacan,Galunggong (Local),2026-12-01,303.83
+Bulacan,Tilapia,2026-01-01,147.53
+Bulacan,Tilapia,2026-02-01,148.31
+Bulacan,Tilapia,2026-03-01,143.25
+Bulacan,Tilapia,2026-04-01,143.37
+Bulacan,Tilapia,2026-05-01,143.32
+Bulacan,Tilapia,2026-06-01,148.59
+Bulacan,Tilapia,2026-07-01,148.58
+Bulacan,Tilapia,2026-08-01,143.83
+Bulacan,Tilapia,2026-09-01,148.58
+Bulacan,Tilapia,2026-10-01,143.83
+Bulacan,Tilapia,2026-11-01,146.21
+Bulacan,Tilapia,2026-12-01,148.58
+Nueva Ecija,Alumahan,2026-01-01,332.57
+Nueva Ecija,Alumahan,2026-02-01,301.36
+Nueva Ecija,Alumahan,2026-03-01,307.2
+Nueva Ecija,Alumahan,2026-04-01,291.67
+Nueva Ecija,Alumahan,2026-05-01,274.2
+Nueva Ecija,Alumahan,2026-06-01,288.53
+Nueva Ecija,Alumahan,2026-07-01,256.72
+Nueva Ecija,Alumahan,2026-08-01,258.01
+Nueva Ecija,Alumahan,2026-09-01,288.53
+Nueva Ecija,Alumahan,2026-10-01,335.1
+Nueva Ecija,Alumahan,2026-11-01,354.62
+Nueva Ecija,Alumahan,2026-12-01,367.77
+Nueva Ecija,Bangus,2026-01-01,249.51
+Nueva Ecija,Bangus,2026-02-01,249.29
+Nueva Ecija,Bangus,2026-03-01,284.82
+Nueva Ecija,Bangus,2026-04-01,249.32
+Nueva Ecija,Bangus,2026-05-01,251.56
+Nueva Ecija,Bangus,2026-06-01,251.56
+Nueva Ecija,Bangus,2026-07-01,252.69
+Nueva Ecija,Bangus,2026-08-01,256.06
+Nueva Ecija,Bangus,2026-09-01,242.81
+Nueva Ecija,Bangus,2026-10-01,278.31
+Nueva Ecija,Bangus,2026-11-01,278.31
+Nueva Ecija,Bangus,2026-12-01,272.69
+Nueva Ecija,Galunggong (Imported),2026-01-01,334.1
+Nueva Ecija,Galunggong (Imported),2026-02-01,279.21
+Nueva Ecija,Galunggong (Imported),2026-03-01,294.34
+Nueva Ecija,Galunggong (Imported),2026-04-01,212.86
+Nueva Ecija,Galunggong (Imported),2026-05-01,189.31
+Nueva Ecija,Galunggong (Imported),2026-06-01,186.12
+Nueva Ecija,Galunggong (Imported),2026-07-01,210.86
+Nueva Ecija,Galunggong (Imported),2026-08-01,207.57
+Nueva Ecija,Galunggong (Imported),2026-09-01,286.47
+Nueva Ecija,Galunggong (Imported),2026-10-01,262.08
+Nueva Ecija,Galunggong (Imported),2026-11-01,280.17
+Nueva Ecija,Galunggong (Imported),2026-12-01,332.44
+Nueva Ecija,Galunggong (Local),2026-01-01,351.28
+Nueva Ecija,Galunggong (Local),2026-02-01,351.15
+Nueva Ecija,Galunggong (Local),2026-03-01,408.92
+Nueva Ecija,Galunggong (Local),2026-04-01,315.64
+Nueva Ecija,Galunggong (Local),2026-05-01,315.64
+Nueva Ecija,Galunggong (Local),2026-06-01,315.64
+Nueva Ecija,Galunggong (Local),2026-07-01,390.04
+Nueva Ecija,Galunggong (Local),2026-08-01,424.44
+Nueva Ecija,Galunggong (Local),2026-09-01,419.95
+Nueva Ecija,Galunggong (Local),2026-10-01,453.31
+Nueva Ecija,Galunggong (Local),2026-11-01,462.19
+Nueva Ecija,Galunggong (Local),2026-12-01,453.31
+Nueva Ecija,Tilapia,2026-01-01,150.0
+Nueva Ecija,Tilapia,2026-02-01,150.0
+Nueva Ecija,Tilapia,2026-03-01,155.96
+Nueva Ecija,Tilapia,2026-04-01,150.0
+Nueva Ecija,Tilapia,2026-05-01,150.0
+Nueva Ecija,Tilapia,2026-06-01,150.0
+Nueva Ecija,Tilapia,2026-07-01,155.96
+Nueva Ecija,Tilapia,2026-08-01,155.96
+Nueva Ecija,Tilapia,2026-09-01,150.0
+Nueva Ecija,Tilapia,2026-10-01,155.96
+Nueva Ecija,Tilapia,2026-11-01,161.93
+Nueva Ecija,Tilapia,2026-12-01,161.93
+Pampanga,Alumahan,2026-01-01,247.45
+Pampanga,Alumahan,2026-02-01,271.56
+Pampanga,Alumahan,2026-03-01,282.07
+Pampanga,Alumahan,2026-04-01,271.95
+Pampanga,Alumahan,2026-05-01,243.55
+Pampanga,Alumahan,2026-06-01,264.66
+Pampanga,Alumahan,2026-07-01,274.81
+Pampanga,Alumahan,2026-08-01,265.56
+Pampanga,Alumahan,2026-09-01,275.44
+Pampanga,Alumahan,2026-10-01,323.32
+Pampanga,Alumahan,2026-11-01,281.57
+Pampanga,Alumahan,2026-12-01,180.0
+Pampanga,Bangus,2026-01-01,224.69
+Pampanga,Bangus,2026-02-01,220.17
+Pampanga,Bangus,2026-03-01,224.78
+Pampanga,Bangus,2026-04-01,232.39
+Pampanga,Bangus,2026-05-01,228.29
+Pampanga,Bangus,2026-06-01,237.89
+Pampanga,Bangus,2026-07-01,233.22
+Pampanga,Bangus,2026-08-01,218.3
+Pampanga,Bangus,2026-09-01,228.22
+Pampanga,Bangus,2026-10-01,233.12
+Pampanga,Bangus,2026-11-01,228.2
+Pampanga,Bangus,2026-12-01,233.13
+Pampanga,Galunggong (Imported),2026-01-01,272.57
+Pampanga,Galunggong (Imported),2026-02-01,238.34
+Pampanga,Galunggong (Imported),2026-03-01,257.8
+Pampanga,Galunggong (Imported),2026-04-01,223.54
+Pampanga,Galunggong (Imported),2026-05-01,211.15
+Pampanga,Galunggong (Imported),2026-06-01,217.76
+Pampanga,Galunggong (Imported),2026-07-01,222.8
+Pampanga,Galunggong (Imported),2026-08-01,217.67
+Pampanga,Galunggong (Imported),2026-09-01,263.74
+Pampanga,Galunggong (Imported),2026-10-01,223.76
+Pampanga,Galunggong (Imported),2026-11-01,213.97
+Pampanga,Galunggong (Imported),2026-12-01,224.51
+Pampanga,Galunggong (Local),2026-01-01,333.83
+Pampanga,Galunggong (Local),2026-02-01,327.52
+Pampanga,Galunggong (Local),2026-03-01,342.89
+Pampanga,Galunggong (Local),2026-04-01,335.64
+Pampanga,Galunggong (Local),2026-05-01,307.51
+Pampanga,Galunggong (Local),2026-06-01,313.89
+Pampanga,Galunggong (Local),2026-07-01,310.26
+Pampanga,Galunggong (Local),2026-08-01,322.89
+Pampanga,Galunggong (Local),2026-09-01,355.64
+Pampanga,Galunggong (Local),2026-10-01,374.76
+Pampanga,Galunggong (Local),2026-11-01,342.89
+Pampanga,Galunggong (Local),2026-12-01,330.14
+Pampanga,Tilapia,2026-01-01,136.45
+Pampanga,Tilapia,2026-02-01,137.31
+Pampanga,Tilapia,2026-03-01,136.97
+Pampanga,Tilapia,2026-04-01,132.77
+Pampanga,Tilapia,2026-05-01,137.05
+Pampanga,Tilapia,2026-06-01,137.07
+Pampanga,Tilapia,2026-07-01,137.06
+Pampanga,Tilapia,2026-08-01,137.07
+Pampanga,Tilapia,2026-09-01,137.07
+Pampanga,Tilapia,2026-10-01,137.07
+Pampanga,Tilapia,2026-11-01,142.74
+Pampanga,Tilapia,2026-12-01,142.74
+Regional,Alumahan,2026-01-01,345.23
+Regional,Alumahan,2026-02-01,302.33
+Regional,Alumahan,2026-03-01,300.48
+Regional,Alumahan,2026-04-01,285.3
+Regional,Alumahan,2026-05-01,255.42
+Regional,Alumahan,2026-06-01,276.12
+Regional,Alumahan,2026-07-01,259.0
+Regional,Alumahan,2026-08-01,264.34
+Regional,Alumahan,2026-09-01,300.85
+Regional,Alumahan,2026-10-01,322.54
+Regional,Alumahan,2026-11-01,314.73
+Regional,Alumahan,2026-12-01,307.18
+Regional,Bangus,2026-01-01,225.02
+Regional,Bangus,2026-02-01,223.73
+Regional,Bangus,2026-03-01,226.14
+Regional,Bangus,2026-04-01,223.28
+Regional,Bangus,2026-05-01,218.81
+Regional,Bangus,2026-06-01,221.32
+Regional,Bangus,2026-07-01,222.8
+Regional,Bangus,2026-08-01,229.47
+Regional,Bangus,2026-09-01,243.65
+Regional,Bangus,2026-10-01,243.93
+Regional,Bangus,2026-11-01,240.0
+Regional,Bangus,2026-12-01,234.36
+Regional,Galunggong (Imported),2026-01-01,264.4
+Regional,Galunggong (Imported),2026-02-01,265.07
+Regional,Galunggong (Imported),2026-03-01,258.3
+Regional,Galunggong (Imported),2026-04-01,220.77
+Regional,Galunggong (Imported),2026-05-01,224.0
+Regional,Galunggong (Imported),2026-06-01,221.51
+Regional,Galunggong (Imported),2026-07-01,229.56
+Regional,Galunggong (Imported),2026-08-01,228.69
+Regional,Galunggong (Imported),2026-09-01,268.11
+Regional,Galunggong (Imported),2026-10-01,244.42
+Regional,Galunggong (Imported),2026-11-01,255.03
+Regional,Galunggong (Imported),2026-12-01,258.53
+Regional,Galunggong (Local),2026-01-01,302.12
+Regional,Galunggong (Local),2026-02-01,315.44
+Regional,Galunggong (Local),2026-03-01,317.84
+Regional,Galunggong (Local),2026-04-01,289.17
+Regional,Galunggong (Local),2026-05-01,277.97
+Regional,Galunggong (Local),2026-06-01,275.3
+Regional,Galunggong (Local),2026-07-01,292.1
+Regional,Galunggong (Local),2026-08-01,308.68
+Regional,Galunggong (Local),2026-09-01,332.74
+Regional,Galunggong (Local),2026-10-01,344.43
+Regional,Galunggong (Local),2026-11-01,336.81
+Regional,Galunggong (Local),2026-12-01,345.96
+Regional,Tilapia,2026-01-01,146.61
+Regional,Tilapia,2026-02-01,146.74
+Regional,Tilapia,2026-03-01,145.37
+Regional,Tilapia,2026-04-01,143.98
+Regional,Tilapia,2026-05-01,144.6
+Regional,Tilapia,2026-06-01,145.57
+Regional,Tilapia,2026-07-01,144.52
+Regional,Tilapia,2026-08-01,143.68
+Regional,Tilapia,2026-09-01,142.88
+Regional,Tilapia,2026-10-01,143.84
+Regional,Tilapia,2026-11-01,150.37
+Regional,Tilapia,2026-12-01,150.69
+Tarlac,Alumahan,2026-01-01,307.68
+Tarlac,Alumahan,2026-02-01,271.6
+Tarlac,Alumahan,2026-03-01,273.02
+Tarlac,Alumahan,2026-04-01,261.58
+Tarlac,Alumahan,2026-05-01,215.94
+Tarlac,Alumahan,2026-06-01,255.58
+Tarlac,Alumahan,2026-07-01,240.04
+Tarlac,Alumahan,2026-08-01,245.78
+Tarlac,Alumahan,2026-09-01,280.45
+Tarlac,Alumahan,2026-10-01,300.47
+Tarlac,Alumahan,2026-11-01,292.89
+Tarlac,Alumahan,2026-12-01,300.69
+Tarlac,Bangus,2026-01-01,200.07
+Tarlac,Bangus,2026-02-01,188.33
+Tarlac,Bangus,2026-03-01,183.93
+Tarlac,Bangus,2026-04-01,183.79
+Tarlac,Bangus,2026-05-01,183.84
+Tarlac,Bangus,2026-06-01,178.97
+Tarlac,Bangus,2026-07-01,184.12
+Tarlac,Bangus,2026-08-01,199.57
+Tarlac,Bangus,2026-09-01,209.27
+Tarlac,Bangus,2026-10-01,204.42
+Tarlac,Bangus,2026-11-01,198.97
+Tarlac,Bangus,2026-12-01,193.83
+Tarlac,Galunggong (Imported),2026-01-01,271.11
+Tarlac,Galunggong (Imported),2026-02-01,281.73
+Tarlac,Galunggong (Imported),2026-03-01,288.8
+Tarlac,Galunggong (Imported),2026-04-01,234.71
+Tarlac,Galunggong (Imported),2026-05-01,255.01
+Tarlac,Galunggong (Imported),2026-06-01,257.09
+Tarlac,Galunggong (Imported),2026-07-01,284.96
+Tarlac,Galunggong (Imported),2026-08-01,267.92
+Tarlac,Galunggong (Imported),2026-09-01,345.65
+Tarlac,Galunggong (Imported),2026-10-01,287.24
+Tarlac,Galunggong (Imported),2026-11-01,295.17
+Tarlac,Galunggong (Imported),2026-12-01,308.37
+Tarlac,Galunggong (Local),2026-01-01,222.01
+Tarlac,Galunggong (Local),2026-02-01,260.67
+Tarlac,Galunggong (Local),2026-03-01,240.1
+Tarlac,Galunggong (Local),2026-04-01,221.26
+Tarlac,Galunggong (Local),2026-05-01,203.44
+Tarlac,Galunggong (Local),2026-06-01,205.54
+Tarlac,Galunggong (Local),2026-07-01,220.65
+Tarlac,Galunggong (Local),2026-08-01,230.0
+Tarlac,Galunggong (Local),2026-09-01,285.02
+Tarlac,Galunggong (Local),2026-10-01,243.16
+Tarlac,Galunggong (Local),2026-11-01,240.41
+Tarlac,Galunggong (Local),2026-12-01,264.45
+Tarlac,Tilapia,2026-01-01,154.02
+Tarlac,Tilapia,2026-02-01,154.22
+Tarlac,Tilapia,2026-03-01,149.16
+Tarlac,Tilapia,2026-04-01,149.17
+Tarlac,Tilapia,2026-05-01,149.17
+Tarlac,Tilapia,2026-06-01,154.19
+Tarlac,Tilapia,2026-07-01,144.19
+Tarlac,Tilapia,2026-08-01,144.19
+Tarlac,Tilapia,2026-09-01,144.19
+Tarlac,Tilapia,2026-10-01,154.19
+Tarlac,Tilapia,2026-11-01,164.22
+Tarlac,Tilapia,2026-12-01,164.22
+Zambales,Alumahan,2026-01-01,403.46
+Zambales,Alumahan,2026-02-01,300.41
+Zambales,Alumahan,2026-03-01,296.63
+Zambales,Alumahan,2026-04-01,280.3
+Zambales,Alumahan,2026-05-01,267.41
+Zambales,Alumahan,2026-06-01,266.5
+Zambales,Alumahan,2026-07-01,251.71
+Zambales,Alumahan,2026-08-01,276.57
+Zambales,Alumahan,2026-09-01,290.63
+Zambales,Alumahan,2026-10-01,355.92
+Zambales,Alumahan,2026-11-01,280.01
+Zambales,Alumahan,2026-12-01,329.43
+Zambales,Bangus,2026-01-01,247.73
+Zambales,Bangus,2026-02-01,247.24
+Zambales,Bangus,2026-03-01,247.3
+Zambales,Bangus,2026-04-01,247.29
+Zambales,Bangus,2026-05-01,247.29
+Zambales,Bangus,2026-06-01,238.95
+Zambales,Bangus,2026-07-01,240.06
+Zambales,Bangus,2026-08-01,262.26
+Zambales,Bangus,2026-09-01,282.26
+Zambales,Bangus,2026-10-01,282.26
+Zambales,Bangus,2026-11-01,262.26
+Zambales,Bangus,2026-12-01,238.95
+Zambales,Galunggong (Imported),2026-01-01,238.62
+Zambales,Galunggong (Imported),2026-02-01,260.2
+Zambales,Galunggong (Imported),2026-03-01,260.13
+Zambales,Galunggong (Imported),2026-04-01,241.05
+Zambales,Galunggong (Imported),2026-05-01,259.07
+Zambales,Galunggong (Imported),2026-06-01,248.71
+Zambales,Galunggong (Imported),2026-07-01,271.4
+Zambales,Galunggong (Imported),2026-08-01,266.0
+Zambales,Galunggong (Imported),2026-09-01,325.71
+Zambales,Galunggong (Imported),2026-10-01,298.06
+Zambales,Galunggong (Imported),2026-11-01,305.86
+Zambales,Galunggong (Imported),2026-12-01,246.61
+Zambales,Galunggong (Local),2026-01-01,259.16
+Zambales,Galunggong (Local),2026-02-01,275.82
+Zambales,Galunggong (Local),2026-03-01,245.59
+Zambales,Galunggong (Local),2026-04-01,202.44
+Zambales,Galunggong (Local),2026-05-01,221.04
+Zambales,Galunggong (Local),2026-06-01,179.4
+Zambales,Galunggong (Local),2026-07-01,190.56
+Zambales,Galunggong (Local),2026-08-01,209.11
+Zambales,Galunggong (Local),2026-09-01,263.64
+Zambales,Galunggong (Local),2026-10-01,275.48
+Zambales,Galunggong (Local),2026-11-01,247.31
+Zambales,Galunggong (Local),2026-12-01,262.26
+Zambales,Tilapia,2026-01-01,150.0
+Zambales,Tilapia,2026-02-01,150.0
+Zambales,Tilapia,2026-03-01,150.0
+Zambales,Tilapia,2026-04-01,150.0
+Zambales,Tilapia,2026-05-01,150.0
+Zambales,Tilapia,2026-06-01,150.0
+Zambales,Tilapia,2026-07-01,151.57
+Zambales,Tilapia,2026-08-01,150.0
+Zambales,Tilapia,2026-09-01,150.0
+Zambales,Tilapia,2026-10-01,150.0
+Zambales,Tilapia,2026-11-01,161.73
+Zambales,Tilapia,2026-12-01,161.73
