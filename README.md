@@ -16,7 +16,7 @@ Make sure you have the following installed on your system:
 ### Clone the Repository
 Open terminal or VS Code and run:
 ```bash
-git clone [https://github.com/ajzamora29/fsh-cenral-luzon.git](https://github.com/ajzamora29/fsh-cenral-luzon.git)
+git clone [https://github.com/ajzamora29/fsh-central-luzon.git](https://github.com/ajzamora29/fsh-central-luzon.git)
 cd fsh-cenral-luzon
 ```
 
@@ -26,7 +26,7 @@ cd fsh-cenral-luzon
 1. Open a terminal and navigate to the frontend folder:
 
    ```bash
-   cd frontend
+   cd fsh central luzon
 
 
 2. Install the required Node packages (includes **React**, **D3.js**, and other project dependencies):
